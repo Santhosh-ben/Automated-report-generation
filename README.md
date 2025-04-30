@@ -20,3 +20,4 @@ Through this project, I learned how to handle file I/O operations, parse CSV fil
 In conclusion, the Automated Report Generation project was a valuable learning experience that combined data processing, basic statistics, and report creation into a single streamlined solution. It strengthened my knowledge of Python programming and its application in real-world scenarios. This project can be extended further by adding features like charts, exporting to Excel, or sending reports via email automatically. Overall, it highlighted the importance of automation in data reporting and how simple scripts can make everyday tasks easier and more efficient.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/34432843-35f4-483f-a082-01ed99da8492)
